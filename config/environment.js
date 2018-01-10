@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'ember-d3-components-2',
+    modulePrefix: 'ember-d3-v3-collision',
     environment: environment,
     rootURL: '/',
     locationType: 'auto',
